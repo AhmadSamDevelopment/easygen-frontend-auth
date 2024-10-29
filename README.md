@@ -1,4 +1,3 @@
-
 # User Authentication Module (Frontend)
 
 ## Overview
@@ -8,6 +7,7 @@ This project implements a user authentication module that allows users to sign u
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
@@ -18,6 +18,11 @@ This project implements a user authentication module that allows users to sign u
 - [Manual Testing](#manual-testing)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Prerequisites
+
+Before running the frontend application, ensure that the backend is set up and running. You can find the backend repository at [https://github.com/AhmadSamDevelopment/auth-backend/tree/main](https://github.com/AhmadSamDevelopment/auth-backend/tree/main). The backend is essential for handling user authentication, providing the necessary API endpoints for sign-up and sign-in functionalities. Make sure to follow the setup instructions provided in the backend repository to run the application seamlessly alongside the frontend.
+
 
 ## Technologies Used
 
@@ -33,12 +38,12 @@ To get started with the frontend project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AhmadSamDevelopment/easygen-frontend-auth.git
    ```
 
 2. **Navigate into the project directory**:
    ```bash
-   cd frontend
+   cd easygen-frontend-auth
    ```
 
 3. **Install dependencies**:
